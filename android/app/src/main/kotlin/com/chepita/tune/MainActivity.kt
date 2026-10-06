@@ -1,4 +1,4 @@
-package com.example.app_chepita_afinador
+package com.chepita.tune
 
 import io.flutter.embedding.android.FlutterActivity
 
