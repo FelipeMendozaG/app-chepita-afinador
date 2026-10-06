@@ -1,4 +1,4 @@
-package com.chepita.tune
+package chepita.tune
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,7 +1,7 @@
 @echo off
 echo ========================================================
 echo    Compilando Bundle (.aab) para Google Play Store
-echo    App: Chepita tune (com.chepita.tune)
+echo    App: Chepita tune (chepita.tune)
 echo ========================================================
 echo.
 
